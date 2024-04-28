@@ -1,0 +1,3 @@
+[submodule "modules/DIGITS_Model_Checker"]
+	path = modules/DIGITS_Model_Checker
+	url = git@github.com:ian-james/DIGITS_Model_Checker.git
